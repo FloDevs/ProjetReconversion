@@ -1,0 +1,184 @@
+* {font-family:Arial;
+                
+}
+
+div.entete { background: url(cover_overlay.png) no-repeat center/100% 100% ,url(informatique\ \(2\).jpg) no-repeat center/cover;
+    height: 400px; 
+    text-align: center;
+    
+    color: white;
+
+    
+
+
+}
+
+body {
+    margin:80px 100px;
+    background-color:#8BA1BB;
+
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+ 
+}
+h2 {margin-bottom:25px;
+
+    color:lightgray;
+    
+
+}
+
+h3 { margin-top: 10px;
+    color:lightgray;
+    
+
+}
+
+div.texte {
+    background-color: white;
+    text-align: center;
+    vertical-align: bottom;
+}
+.firstline {
+    margin-top: 0;
+    background-color: #F4F4F4;
+    padding: 50px 50px 10px 50px;
+    font-size: 20px;
+    
+    
+    
+}
+img.photo {
+    height:200px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    
+    margin-right: auto;
+}
+img.triangle {
+    width: 100%;
+}
+
+div.second {
+    background-color: white;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+div.third {
+    background-color: #F4F4F4;
+    margin-top: 0;
+    padding: 50px;
+    font-size: 20px;
+    line-height: 1.5;
+    
+}
+img.triangle2 {
+    width: 100%;
+    padding-bottom: 0;
+    vertical-align: bottom;
+    
+}
+a.site:hover {
+    color: white;
+}
+
+a.site {
+    color : violet
+}
+
+img.triangle1white {
+
+    width: 100%;
+}
+div.suite {
+
+    background-color: white;
+}
+p.presentation {
+    font-size: 25px;
+}
+div.suite { display: inline-block;
+    width: 50%;
+    font-size: 15px;
+    line-height: 2;
+    text-align: center;
+    background-color: #E6FF9E;
+    height: 500px;
+    
+    
+    
+    
+}
+div.coming {
+    float: right;
+    width: 50%;
+    text-align: center;
+    background-color: #DDFEFF;
+    ;
+    line-height: 2;
+    height: 500px;
+}
+
+
+    
+
+img.django {
+    height: 200px;
+}
+p.presentation2 {
+    font-size: 25px;
+}
+
+
+div.recap {
+
+background-color: #F4F4F4;
+display: inline-block;
+width: 100%;
+text-align: center;
+line-height: 2;
+
+
+}
+
+h4{
+font-size: 25px;
+
+}
+
+p.conclu {
+font-size: 20px;
+}
+img.triangle2 {
+width: 100%;
+vertical-align: bottom;
+}
+div.contact {
+position: absolute;
+top:100px;
+margin-left: 50px;
+border-left: 4px solid blue;
+padding-left: 5px;
+
+}
+div.contact p {
+
+text-align: left;
+}
+div.contact a {
+font-size: 20px;
+color: white;
+
+}
+p.contact1{
+margin-top: 0;
+}
+p.contact2{
+margin-bottom: 0;
+}
